@@ -42,6 +42,4 @@ Throughout this document the colors as well as title numbers (1, 2...) will indi
 
 [App Store Dataset](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
 
-[Google Play Store Dataset](https://www.kaggle.com/lava18/google-play-store-apps)
-
 ## Log
