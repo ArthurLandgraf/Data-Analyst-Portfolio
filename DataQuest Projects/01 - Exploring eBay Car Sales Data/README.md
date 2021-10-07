@@ -1,0 +1,1 @@
+The project was part of DataQuest's Data Analyst path and didn't had any major objectives other than practice and consolidate knowledge in Pandas. Now looking back and uploading this project I see how many different things I could've done as well as other modules to increment the analysis, but I still see it's importance as a beginner trying to work with Pandas basic functions.
