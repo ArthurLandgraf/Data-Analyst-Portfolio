@@ -1,1 +1,1 @@
-Create readme
+The project was part of DataQuest's Data Analyst path and the main objective is to generate a presentable visualization of the Euro to Dollar value fluctuations during **COVID-19 Era**. The main learnings taken from this guided-project was on utilizing **matplotlib** and primarily its tools to generate beautiful charts that can translate the key ideas with a clean look.
