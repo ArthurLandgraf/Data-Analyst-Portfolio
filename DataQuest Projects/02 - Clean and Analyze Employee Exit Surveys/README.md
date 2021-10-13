@@ -2,5 +2,5 @@ The project was part of DataQuest's Data Analyst path and the main objective was
 
 Here's a peek of the final outcome:
 
-![alt text](https://i.ibb.co/6scFB8j/chart5.png "Dissatisfied Resignations by Experience Level")
-![alt text](https://i.ibb.co/PWZzqpz/chart6.png "Dissatisfied Resignations by Age Ranges")
+![alt text](https://i.ibb.co/10dCfSW/chart5.png "Dissatisfied Resignations by Experience Level")
+![alt text](https://i.ibb.co/4SnkH3z/chart6.png "Dissatisfied Resignations by Age Ranges")
