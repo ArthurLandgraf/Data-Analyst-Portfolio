@@ -21,7 +21,7 @@ Other than that, it was great to take some non-guided practice in a project of m
 
 ![alt text](https://i.ibb.co/1TYQvmk/chart3.png "App Name Element Analysis")
 
-![alt text](https://i.ibb.co/4Pc7HKx/chart1.png "Genre Element Analysis")
+![alt text](https://i.ibb.co/7QCTjSr/chart1.png "Genre Element Analysis")
 
 ![alt text](https://i.ibb.co/rHhnWNC/chart2.png "App size Element Analysis")
 
