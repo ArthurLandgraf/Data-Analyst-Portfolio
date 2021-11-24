@@ -9,10 +9,14 @@ This repository contains the relevant projects for the Data Analyst in Python Ce
 - Numpy
 - Pandas
 - Matplotlib
+- Seaborn
+- Requests
+- Beautifulsoup4
+- And others...
 2. Jupyter Notebook
 3. SQL
 - SQLite
-- PostgreSQL(?)
+- MySQL
 5. Regex
 6. Command Line
 7. API & Web-Scraping
