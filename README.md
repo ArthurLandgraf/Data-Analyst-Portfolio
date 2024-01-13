@@ -2,6 +2,7 @@
 This repository contains the relevant projects for the Data Analyst in Python Certification by [DataQuest.io](https://www.dataquest.io/path/data-analyst/) as well as a few personal projects.
 
 ![alt text](https://i.ibb.co/MpZpQV4/kevin-landgraf-lee-data-analyst-track-page-0001.jpg "DataQuest Certificate")
+PS: Back in 2021 my legal name was Kevin, later in 2023 I legally changed it to Arthur for personal reasons.
 
 ## Topics included
 
